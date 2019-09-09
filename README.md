@@ -1,2 +1,2 @@
 # hellow-world
-trying to learn to code
+Heyy world. This is just a test repo. Nothing fancy, Cheers!
